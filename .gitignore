@@ -1,0 +1,3 @@
+# Ignore the folders for backup and tmp files
+backup/*
+tmp/*
