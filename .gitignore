@@ -1,3 +1,6 @@
 # Ignore the folders for backup and tmp files
 backup/*
 tmp/*
+
+# Ignore Vundle
+bundle/*

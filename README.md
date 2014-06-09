@@ -10,6 +10,9 @@ Setup Instructions:
    this folder:
 	ln -s .vim/.vimrc .vimrc
 
-2. Create dirs for backup and tmp files
+3. Create dirs for backup and tmp files
 	a. Create ~/.vim/backup
 	b. Create ~/.vim/tmp
+
+4. Set up Vundle by cloning it to /bundle/Vundle.vim
+	See https://github.com/gmarik/Vundle.vim 
