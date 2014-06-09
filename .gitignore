@@ -4,3 +4,6 @@ tmp/*
 
 # Ignore Vundle
 bundle/*
+
+# Ignore .netrwhist
+.netrwhist
