@@ -39,6 +39,7 @@ Plugin 'L9'
 Plugin 'kchmck/vim-coffee-script'
 Plugin 'digitaltoad/vim-jade'
 Plugin 'scrooloose/nerdtree'
+Plugin 'elzr/vim-json'
 
 call vundle#end()            " required
 
