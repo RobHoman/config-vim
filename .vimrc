@@ -38,6 +38,7 @@ Plugin 'L9'
 "" Plugins from GitHub ""
 Plugin 'kchmck/vim-coffee-script'
 Plugin 'digitaltoad/vim-jade'
+Plugin 'scrooloose/nerdtree'
 
 call vundle#end()            " required
 
