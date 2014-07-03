@@ -41,6 +41,7 @@ Plugin 'digitaltoad/vim-jade'
 Plugin 'scrooloose/nerdtree'
 Plugin 'elzr/vim-json'
 Plugin 'vim-scripts/groovy.vim'
+Plugin 'tfnico/vim-gradle'
 
 call vundle#end()            " required
 
