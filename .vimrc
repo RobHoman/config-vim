@@ -40,6 +40,7 @@ Plugin 'kchmck/vim-coffee-script'
 Plugin 'digitaltoad/vim-jade'
 Plugin 'scrooloose/nerdtree'
 Plugin 'elzr/vim-json'
+Plugin 'vim-scripts/groovy.vim'
 
 call vundle#end()            " required
 
