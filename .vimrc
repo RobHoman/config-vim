@@ -80,3 +80,5 @@ syntax enable
 set backup
 set backupdir=~/.vim/backup//
 set directory=~/.vim/tmp//
+
+set backspace=2  "Makes backspace work like most other apps.
