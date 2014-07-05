@@ -42,6 +42,8 @@ Plugin 'scrooloose/nerdtree'
 Plugin 'elzr/vim-json'
 Plugin 'vim-scripts/groovy.vim'
 Plugin 'tfnico/vim-gradle'
+Plugin 'kien/ctrlp.vim'
+Plugin 'Valloric/YouCompleteMe'
 
 call vundle#end()            " required
 

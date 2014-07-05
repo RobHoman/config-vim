@@ -16,3 +16,8 @@ Setup Instructions:
 
 4. Set up Vundle by cloning it to /bundle/Vundle.vim
 	See https://github.com/gmarik/Vundle.vim 
+
+5. Use :PluginInstall to install plugins.
+
+6. Compile the following plugins, according to their online documentation:
+        a. YouCompleteMe
