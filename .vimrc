@@ -82,3 +82,4 @@ set backupdir=~/.vim/backup//
 set directory=~/.vim/tmp//
 
 set backspace=2  "Makes backspace work like most other apps.
+set number "Show line numbers beside each window
