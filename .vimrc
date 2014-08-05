@@ -83,3 +83,9 @@ set directory=~/.vim/tmp//
 
 set backspace=2  "Makes backspace work like most other apps.
 set number "Show line numbers beside each window
+
+
+"""""" Bindings """"""
+nmap <silent> <C-D> :NERDTreeToggle<CR>
+
+"""" End Bindings """"
