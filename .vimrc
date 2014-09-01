@@ -87,5 +87,6 @@ set number "Show line numbers beside each window
 
 """""" Bindings """"""
 nmap <silent> <C-D> :NERDTreeToggle<CR>
-
+map bn :bprevious<CR>
+map bp :bnext<CR>
 """" End Bindings """"
