@@ -44,6 +44,7 @@ Plugin 'vim-scripts/groovy.vim'
 Plugin 'tfnico/vim-gradle'
 Plugin 'kien/ctrlp.vim'
 Plugin 'Valloric/YouCompleteMe'
+Plugin 'jplaut/vim-arduino-ino'
 
 call vundle#end()            " required
 
