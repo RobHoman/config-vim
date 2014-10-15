@@ -12,3 +12,5 @@ Setup Instructions:
 3. Use `sh uninstall.sh` to uninstall this vim configuration.
 
 4. See the comments in `install.sh` and `uninstall.sh` for explanation of what is installed.
+
+5. [Optional] Use [Seil](https://pqrs.org/osx/karabiner/seil.html.en "Seil") to map the Caps Lock key to escape on OSX systems.
