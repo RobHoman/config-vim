@@ -86,7 +86,7 @@ set directory=~/.vim/tmp//
 set backspace=2  "Makes backspace work like most other apps.
 
 """""" Bindings """"""
-nmap <silent> <C-D> :NERDTreeToggle<CR>
+let mapleader=","
 map bn :bprevious<CR>
 map bp :bnext<CR>
 """" End Bindings """"
