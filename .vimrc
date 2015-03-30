@@ -46,6 +46,7 @@ Plugin 'kien/ctrlp.vim'
 Plugin 'Valloric/YouCompleteMe'
 Plugin 'jplaut/vim-arduino-ino'
 Plugin 'guns/vim-clojure-static'
+Plugin 'rking/ag.vim'
 
 call vundle#end()            " required
 
