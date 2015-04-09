@@ -1,5 +1,4 @@
-" Expand tab characters into 2 spaces. Use 2 spaces for
-" indentation too.
+" Indent purely with hard tabs:
+" http://vim.wikia.com/wiki/Indenting_source_code
 set tabstop=2
 set shiftwidth=2
-set expandtab
