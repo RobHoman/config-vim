@@ -2,6 +2,9 @@
 backup/*
 tmp/*
 
+# Ignore saved sessions
+sessions/*
+
 # Ignore Vundle
 bundle/*
 
