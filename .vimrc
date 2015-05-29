@@ -91,4 +91,11 @@ set backspace=2  "Makes backspace work like most other apps.
 let mapleader=","
 map bn :bprevious<CR>
 map bp :bnext<CR>
+
+" Map ✠ (U+2720) to <S-CR>, so we have <S-CR> mapped to ✠ in iTerm2 and
+" ✠ mapped back to <S-CR> in Vim.
+nmap ✠ <S-CR>
+
+nmap <S-CR> O<Esc>j
+nmap <CR> o<Esc>k
 """" End Bindings """"
