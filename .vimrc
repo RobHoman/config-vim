@@ -36,17 +36,19 @@ Plugin 'L9'
 " Plugin 'user/L9', {'name': 'newL9'}
 
 "" Plugins from GitHub ""
+Plugin 'tpope/vim-repeat'
+Plugin 'tpope/vim-surround'
+Plugin 'scrooloose/nerdtree'
+Plugin 'kien/ctrlp.vim'
+Plugin 'Valloric/YouCompleteMe'
+Plugin 'rking/ag.vim'
 Plugin 'kchmck/vim-coffee-script'
 Plugin 'digitaltoad/vim-jade'
-Plugin 'scrooloose/nerdtree'
 Plugin 'elzr/vim-json'
 Plugin 'vim-scripts/groovy.vim'
 Plugin 'tfnico/vim-gradle'
-Plugin 'kien/ctrlp.vim'
-Plugin 'Valloric/YouCompleteMe'
 Plugin 'jplaut/vim-arduino-ino'
 Plugin 'guns/vim-clojure-static'
-Plugin 'rking/ag.vim'
 Plugin 'fatih/vim-go'
 
 call vundle#end()            " required
