@@ -5,3 +5,6 @@ endif
 
 " Include dotfiles in ctrlp searches
 let g:ctrlp_show_hidden = 1
+
+" Make the results window scrollable, up to a certain limit
+let g:ctrlp_match_window = 'results:100'
