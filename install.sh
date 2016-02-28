@@ -15,5 +15,5 @@ vim +PluginInstall +qall!
 # Compile the following plugins, according to their online documentation:
 ## Compile YouCompleteMe. See https://github.com/Valloric/YouCompleteMe
 cd ~/.vim/bundle/YouCompleteMe
-./install.sh --clang-completer
+./install.sh --clang-completer --gocode-completer
 cd -
