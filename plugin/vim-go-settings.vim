@@ -8,3 +8,5 @@ au FileType go nmap <Leader>gdcv <Plug>(go-doc-vertical)
 " Disabled for now
 let g:go_auto_type_info = 0
 
+" Use goimports for formatting
+let g:go_fmt_command = "goimports"
