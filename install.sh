@@ -1,3 +1,6 @@
+# N.B. I recommend hand-installation. In other words, run each step here by
+# hand for greater visibility into the installation process
+
 # Symlink ~/.vimrc so that vim loads with the custom .vimrc inside
 ln -s ~/.vim/.vimrc ~/.vimrc
 
@@ -15,5 +18,5 @@ vim +PluginInstall +qall!
 # Compile the following plugins, according to their online documentation:
 ## Compile YouCompleteMe. See https://github.com/Valloric/YouCompleteMe
 cd ~/.vim/bundle/YouCompleteMe
-./install.sh --clang-completer --gocode-completer
+./install.py --clang-completer --gocode-completer
 cd -
